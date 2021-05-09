@@ -12,7 +12,7 @@ public class Main {
 
 		// Modify your code from question 1 by adding two methods to display 
 		// the number of sides and color of the polygon object created. 
-		// In the main class call the methods for every object you have created.
+		// In the main class call the methods for every object you have created. 
 		
 		triangle.getSides();
 		triangle.getColor();

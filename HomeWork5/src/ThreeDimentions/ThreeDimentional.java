@@ -9,6 +9,7 @@ public class ThreeDimentional extends Polygon {
 	private int height;
 
 	public ThreeDimentional(int side, String color, int height) {
+		
 		super(side, color);
 		this.height = height;
 	}

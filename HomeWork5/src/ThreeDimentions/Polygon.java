@@ -11,6 +11,7 @@ public class Polygon {
 	
 	// Modify your code from question 1 by adding a constructor for the Polygon class 
 	// and user should pass the values for Sides and color during the initialization.
+	
 
 	public Polygon(int sides, String color) {
 		this.sides = sides;
